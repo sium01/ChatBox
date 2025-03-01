@@ -11,10 +11,6 @@ export default {
     themes: [
       "light",
       "dark",
-      "cupcake",
-      "bumblebee",
-      "emerald",
-      "corporate",
       "synthwave",
       "retro",
       "cyberpunk",
@@ -36,7 +32,6 @@ export default {
       "acid",
       "lemonade",
       "night",
-      "coffee",
       "winter",
       "dim",
       "nord",

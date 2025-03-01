@@ -1,6 +1,6 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-![Demo App] <img src="https://github.com/burakorkmez/fullstack-chat-app/raw/master/frontend/public/screenshot-for-readme.png"/>
+
 
 
 
